@@ -1,6 +1,6 @@
 ## [ICLR 2024 Spotlight] Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments
 
-### 🚀🚀🚀 A brand-new problem of estimating the detector performance in an unlabeled test domain.
+## 🚀🚀🚀 A brand-new problem of estimating the detector performance in an unlabeled test domain.
 
 ## Abstract
 
