@@ -1,25 +1,15 @@
-res_iou_ac_area_filter/*
-tools_rm/*
-data_full/*
+res/*
 output*
-voc
-res*
 batchscript*
-*out
 res/
-work_dirs/
 work_dir/
 pycocotools/
 *.npy
 *.txt
 *.json
-seaborn
-figs*
-analysis/*.json
 *.json
 *.jpg
 *.png
-*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
