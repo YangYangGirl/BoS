@@ -10,8 +10,8 @@ Bounding boxes uniquely characterize object detection, where a good detector giv
 
 This repository contains:
 
-- the PyTorch implementation of BoS.
-- the progress to construct a meta set for AutoEval in object detection.
+- the PyTorch implementation of BoS
+- the progress to construct a meta set for AutoEval in object detection
 - correlation study
 
 Please follow the instruction below to install it.
