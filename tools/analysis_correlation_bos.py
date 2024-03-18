@@ -64,4 +64,4 @@ plt.ylabel("mAP (%)", fontsize=17)
 ax1.xaxis.set_major_formatter(FormatStrFormatter('%.2f'))
 ax1.yaxis.set_major_formatter(FormatStrFormatter('%.1f'))
 
-f.savefig('./figs/correlation_mAP_bos.jpg')
+f.savefig('./figs/correlation_mAP_bos.pdf')
