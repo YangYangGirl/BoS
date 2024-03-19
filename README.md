@@ -23,7 +23,7 @@ Please follow the instruction below to install it.
 
 **Dataset.** For the convenience of users, we have standardized the formats of the 10 existing object detection datasets, including COCO, BDD, Cityscapes, DETRAC, Exdark, Kitti, Self-driving, Roboflow, Udacity, and Traffic. For each domain, we have randomly selected 250 images containing vehicles.  These images are available for download via the following [link](https://drive.google.com/file/d/1bs1y04q_0VeSDTnex0i94gzK8vGXdx5r/view?usp=sharing). Please place the images under "PROJECT_DIR/data" 
 
-**Model to be evaluated.** Users can download the model via the provided [link](https://drive.google.com/drive/folders/1zAFcSgl1vfzg0BUnyJqg8t_9FkZIXA5h?usp=sharing) and place it in the "PROJECT_DIR/work_dir" folder for convenience. Or users could train vehicle detection models on themselves and evaluate them. 
+**Model to be evaluated.** Users can download the model via the provided [link](https://drive.google.com/drive/folders/1zAFcSgl1vfzg0BUnyJqg8t_9FkZIXA5h?usp=sharing) and place it in the "PROJECT_DIR/work_dir" folder for convenience. To explore more interesting findings, we encourage users to train vehicle detection models by themselves following [mmdetection](https://mmdetection.readthedocs.io/en/latest/user_guides/train.html) instructions and use BoS to evaluate them automatically. 
 
 ## Getting started
 0. Install dependencies 
