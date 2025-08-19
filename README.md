@@ -56,11 +56,11 @@ Please follow the instruction below to install it.
 ## Citation
 If you use the code in your research, please cite:
 ```
-@inproceedings{yang2023bounding,
-  title={Bounding Box Stability against Feature Dropout Reflects Detector Generalization across Environments},
+@article{yang2024bounding,
+  title={Bounding box stability against feature dropout reflects detector generalization across environments},
   author={Yang, Yang and Wang, Wenhai and Chen, Zhe and Dai, Jifeng and Zheng, Liang},
-  booktitle={The Twelfth International Conference on Learning Representations},
-  year={2023}
+  journal={arXiv preprint arXiv:2403.13803},
+  year={2024}
 }
 ```
 ## License
